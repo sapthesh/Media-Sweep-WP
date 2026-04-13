@@ -34,7 +34,7 @@ Deleting an image that is "in use" but not "attached" can break your website's a
 
 ## Installation
 
-1.  Download the latest release as a `.zip` file from the [GitHub repository](https://github.com/your-username/media-sweep).
+1.  Download the latest release as a `.zip` file from the [GitHub repository](https://github.com/sapthesh/Media-Sweep-WP).
 2.  Log in to your WordPress admin dashboard.
 3.  Navigate to **Plugins > Add New**.
 4.  Click the **Upload Plugin** button at the top of the page.
