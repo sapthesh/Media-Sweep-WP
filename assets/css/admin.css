@@ -1,0 +1,12 @@
+#media-sweep-scan-progress .spinner {
+    float: left;
+    margin-right: 10px;
+}
+
+#media-sweep-scan-results .column-title strong a {
+    font-size: 14px;
+}
+
+#media-sweep-scan-results .column-title small {
+    color: #777;
+}
