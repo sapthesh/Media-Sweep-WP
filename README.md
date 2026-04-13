@@ -75,7 +75,7 @@ This is the first stable version of Media Sweep, focusing on safe and accurate s
 
 ## Contributing
 
-Contributions are welcome! If you have a suggestion or a bug fix, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/media-sweep).
+Contributions are welcome! If you have a suggestion or a bug fix, please open an issue or submit a pull request on the [GitHub repository](https://github.com/sapthesh/Media-Sweep-WP).
 
 ## License
 
