@@ -3,7 +3,8 @@
 [![WordPress Plugin Version](https://img.shields.io/badge/Version-1.1.0-blue)](https://wordpress.org/plugins/media-sweep/)
 [![Tested up to](https://img.shields.io/badge/Tested%20up%20to-6.4-brightgreen)](https://wordpress.org/)
 [![Requires PHP](https://img.shields.io/badge/Requires%20PHP-7.4+-red)](https://www.php.net/)
-[![License](https://img.shields.io/badge/License-GPLv2%20or%20later-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License](https://img.shields.io/badge/License-GPLv2%20or%20later-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html) 
+<a href="https://hits.sh/github.com/sapthesh/Media-Sweep-WP/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/Media-Sweep-WP.svg?view=today-total&color=fe7d37"/></a>
 
 A powerful and safe WordPress scanning utility to find media files that are no longer in use. Media Sweep performs a deep scan of your database to help you identify potentially orphaned images and other media uploads.
 
